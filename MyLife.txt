@@ -1,4 +1,4 @@
 Esto es un archivo de texto 
-Trata sobre la vida de Diego
-Un joven estudiante de Programacion 
+Trata sobre la vida de Diego Manzo Avalos
+Un joven entusiaste y estudiante de Programacion 
 Que esta tratando de aprender Git :)
