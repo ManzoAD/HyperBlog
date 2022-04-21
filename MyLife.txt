@@ -1,0 +1,4 @@
+Esto es un archivo de texto 
+Trata sobre la vida de Diego
+Un estudiante de Programacion 
+Que esta tratando de aprender Git :)
