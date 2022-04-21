@@ -1,4 +1,5 @@
 Esto es un archivo de texto 
 Trata sobre la vida de Diego
-Un joven estudiante de Programacion 
+Un joven de 22 años
+estudiante de Programacion 
 Que esta tratando de aprender Git :)
